@@ -1,6 +1,6 @@
 <img width="auto" src="https://github.com/gabriellemoreira/proffy/blob/master/public/images/proffy.png">
 
-#about
+# about
 
 this project was developed in the <strong>next level week</strong>, event by @rocketseat.
 
